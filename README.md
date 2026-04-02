@@ -12,7 +12,7 @@
 
 ## 👋 Hi!
 
-<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 > 🌴 *Mahasiswa Udayana yang suka ngoding di malam hari sambil ngopi* ☕
 
@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artnaaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artnaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=artnaaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artnaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/> -->
 
 <br/>
 
