@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:A78BFA&height=200&section=header&text=Agung%20Ratna&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Development%20%7C%20Udayana%20University&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Python+Developer;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Developer;Internet+of+Things;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 </div>
 
