@@ -18,12 +18,13 @@
 
 <br/>
 
-🤖 **AI & ML Enthusiast** — passionate di dunia Artificial Intelligence & Machine Learning  
+🤖 **AI & ML Enthusiast** — passionate di dunia Artificial Intelligence dan Machine Learning  
 💡 **Problem Solver** — suka mengeksplorasi ide baru dan mengubahnya jadi solusi nyata  
-🐍 **Pythonista** — Python adalah senjata utamaku  
-🥋 **Wushu Athlete** — aktif berlatih seni bela diri Wushu  
-🎬 **Creative Side** — di luar koding, suka videografi, musik & dunia seni  
-🚀 **Currently** — mendalami Deep Learning, Data Engineering & AI Development  
+🐍 **Pythonista** — Python adalah bahasa pemrograman utamaku  
+🌐 **IoT Explorer** — tertarik menghubungkan dunia fisik dan digital lewat teknologi  
+🥋 **Wushu Athlete** — melatih disiplin dan fokus lewat seni bela diri  
+🎬 **Creative Side** — di luar koding, suka videografi, musik, dan dunia seni  
+🚀 **Currently** — mendalami Deep Learning, Data Engineering, dan AI Development
 
 <br clear="right"/>
 
@@ -58,18 +59,6 @@
 
 ---
 
-## 🚀 Currently Learning
-
-<div align="center">
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-150458?style=flat-square&logo=apacheairflow&logoColor=white)
-![AI Development](https://img.shields.io/badge/AI%20Project%20Dev-A78BFA?style=flat-square&logo=openai&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,11 +88,14 @@
 ## ✨ Fun Facts 
 ```python
 agung = {
-    "passion"    : ["AI", "Machine Learning", "Videografi", "Musik"],
-    "sport"      : "🥋 Wushu — melatih tubuh & pikiran sekaligus",
-    "fun_fact"   : "I classify music genres... with math 🎶",
-    "vibe"       : "☕ Night owl — lebih produktif saat malam hari",
-    "motto"      : "Code. Learn. Repeat. 🔁"
+  "fun_fact" : [
+        "🤖 Hidup di antara baris kode & algoritma — Artificial Intelligence bukan sekadar tools, tapi passion",
+        "🎵 Musik bukan cuma didengar, tapi diklasifikasi pakai matematika & Machine Learning",
+        "🥋 Satu-satunya orang yang latihan Wushu sambil mikirin neural network",
+        "🌐 Mimpi bikin perangkat IoT yang bisa 'mikir' sendiri pakai Machine Learning",
+        "🎬 Di balik layar koding, ada kamera yang selalu siap merekam dunia",
+        "☕ Bug paling banyak ketemu jam 1 malam dan berhasil difix jam 2 pagi",
+    ]
 }
 ```
 
