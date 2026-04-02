@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:A78BFA&height=200&section=header&text=Agung%20Ratna&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Udayana%20University&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Agung+Ratna+👋;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Python+Developer;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 Hi There!
+## 👋 Hi!
 
 <img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -18,11 +18,12 @@
 
 <br/>
 
-🤖 **AI & Data Enthusiast** — passionate di dunia Artificial Intelligence & Machine Learning  
+🤖 **AI & ML Enthusiast** — passionate di dunia Artificial Intelligence & Machine Learning  
 💡 **Problem Solver** — suka mengeksplorasi ide baru dan mengubahnya jadi solusi nyata  
 🐍 **Pythonista** — Python adalah senjata utamaku  
-🎬 **Creative Side** — di luar koding, aku suka videografi & dunia seni  
-🚀 **Currently** — mendalami Deep Learning & Data Engineering  
+🥋 **Wushu Athlete** — aktif berlatih seni bela diri Wushu  
+🎬 **Creative Side** — di luar koding, suka videografi, musik & dunia seni  
+🚀 **Currently** — mendalami Deep Learning, Data Engineering & AI Development  
 
 <br clear="right"/>
 
@@ -84,34 +85,23 @@
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏃 gerakin](https://github.com/artnaaa/gerakin) | Movement / activity project | Python |
-| [🎵 Music Genre Classification](https://github.com/artnaaa/Music-Genre-Classification-) | ML model to classify music genres | Python |
-| [⚖️ Teman Hukum ID Chatbot](https://github.com/artnaaa/teman-hukum-id-chatbot) | Legal assistant chatbot for Indonesia | Python |
-| [🔐 Login Mahitala](https://github.com/artnaaa/login_mahitala) | Web login interface | CSS |
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ratnakara___)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artnaaa)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artnaaa) -->
 
 </div>
 
 ---
 
-## ✨ Fun Facts About Me
+## ✨ Fun Facts 
 ```python
 agung = {
     "passion"    : ["AI", "Machine Learning", "Videografi", "Musik"],
+    "sport"      : "🥋 Wushu — melatih tubuh & pikiran sekaligus",
     "fun_fact"   : "I classify music genres... with math 🎶",
-    "hobby"      : ["🎬 Videografi & Editing", "🎵 Musik & Seni"],
     "vibe"       : "☕ Night owl — lebih produktif saat malam hari",
     "motto"      : "Code. Learn. Repeat. 🔁"
 }
