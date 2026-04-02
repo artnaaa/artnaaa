@@ -12,7 +12,7 @@
 
 ## 👋 Hi, I'm Agung Ratna!
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="center" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ```
 🎓 Seorang pembelajar di bidang teknologi yang tertarik pada Artificial Intelligence, Data, dan Software Development
 🤖 Tertarik di bidang AI, Machine Learning & Data
