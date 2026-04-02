@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi!
+## Introducion
 
 <!-- <img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
@@ -22,15 +22,15 @@
 💡 **Problem Solver** — suka mengeksplorasi ide baru dan mengubahnya jadi solusi nyata  
 🐍 **Pythonista** — Python adalah senjata utamaku  
 🌐 **IoT Explorer** — tertarik menghubungkan dunia fisik dan digital lewat teknologi  
-🥋 **Wushu Athlete** — melatih disiplin dan fokus lewat seni bela diri  
-🎬 **Creative Side** — di luar koding, suka videografi, musik, dan dunia seni  
+🥋 **Wushu Athlete** — melatih disiplin dan fokus
+🎬 **Creative Side** — videografi, musik, dan dunia seni  
 🚀 **Currently** — mendalami Deep Learning, Data Engineering, dan AI Development
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Social Media Links
 
 <div align="center">
 
