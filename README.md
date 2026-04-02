@@ -20,7 +20,7 @@
 
 🤖 **AI & ML Enthusiast** — passionate di dunia Artificial Intelligence dan Machine Learning  
 💡 **Problem Solver** — suka mengeksplorasi ide baru dan mengubahnya jadi solusi nyata  
-🐍 **Pythonista** — Python adalah bahasa pemrograman utamaku  
+🐍 **Pythonista** — Python adalah senjata utamaku  
 🌐 **IoT Explorer** — tertarik menghubungkan dunia fisik dan digital lewat teknologi  
 🥋 **Wushu Athlete** — melatih disiplin dan fokus lewat seni bela diri  
 🎬 **Creative Side** — di luar koding, suka videografi, musik, dan dunia seni  
