@@ -10,16 +10,19 @@
 
 ---
 
-## 👋 Hi, I'm Agung Ratna!
+## 👋 Hi There!
 
-<img align="center" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-```
-🎓 Seorang pembelajar di bidang teknologi yang tertarik pada Artificial Intelligence, Data, dan Software Development
-🤖 Tertarik di bidang AI, Machine Learning & Data
-🐍 Python adalah bahasa pertamaku
-💡 Suka mengeksplorasi ide baru dan mengubahnya menjadi solusi nyata
-🚀 Saat ini fokus mengembangkan skill di bidang AI & Data Engineering
-```
+<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+> 🌴 *Mahasiswa Udayana yang suka ngoding di malam hari sambil ngopi* ☕
+
+<br/>
+
+🤖 **AI & Data Enthusiast** — passionate di dunia Artificial Intelligence & Machine Learning  
+💡 **Problem Solver** — suka mengeksplorasi ide baru dan mengubahnya jadi solusi nyata  
+🐍 **Pythonista** — Python adalah senjata utamaku  
+🎬 **Creative Side** — di luar koding, aku suka videografi & dunia seni  
+🚀 **Currently** — mendalami Deep Learning & Data Engineering  
 
 <br clear="right"/>
 
